@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 import java.util.InputMismatchException;
-public class Geeks {
+public class Tictactoe {
 
     static String[] board;
     static String turn;
@@ -126,4 +126,5 @@ public class Geeks {
 
         sc.close();
     }
+
 }
